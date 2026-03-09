@@ -155,4 +155,4 @@ Proyecto preparado para documentación, entrenamiento y publicación reproducibl
 
 Licencia
 
-Agregar aquí la licencia elegida para el repositorio, por ejemplo: MIT License
+ MIT License
