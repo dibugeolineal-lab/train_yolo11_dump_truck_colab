@@ -1,6 +1,8 @@
 # train_yolo11_dump_truck_colab
 Ejercicio de consolidación de entrega — Prototipo AECO CV + repositorio reproducible (solo nube)
 
+[Presentacion (PDF)](slides/dump-truck-yolo11-summary.pdf)
+
 YOLO11 - Detección de Dump Truck
 
 Repositorio reproducible para entrenar, validar e inferir un modelo de detección de objetos con YOLO11 sobre un dataset personalizado alojado en Roboflow. El flujo está preparado para ejecutarse en Google Colab y compartirse en GitHub como repositorio público.
